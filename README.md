@@ -14,31 +14,35 @@ Yang Mau mau aja
 ### Important
 Install puppeteer
    
-```bash
+    ```bash
     npm install ethers puppeteer
     ```
 
 ### Installation
 
-1. **Clone the repository:**
+1. **Install puppeteer:**
+   ```bash
+    npm install ethers puppeteer
+    ```
+2. **Clone the repository:**
 
     ```bash
     git clone https://github.com/ReFFToNG/Auto-Mint-nft-lumiterra.git
     ```
-2. **Navigate to the project directory:**
+3. **Navigate to the project directory:**
 
     ```bash
     cd mint-nft-lumiterra
     ```
 
-3. **Run Setup:**
+4. **Run Setup:**
 
     ```bash
     node mint
     ```
 
+**You can edit file mint:**
 
-You can edit file mint 
 cd mint-nft-lumiterra
 
 and then 
