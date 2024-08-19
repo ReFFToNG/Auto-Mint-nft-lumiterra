@@ -9,15 +9,6 @@ Yang Mau mau aja
 - [Node.js](https://nodejs.org/) (version 14 or later)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
-  Requirement again
-  
-### Important
-Install puppeteer
-   
-    ```bash
-    npm install ethers puppeteer
-    ```
-
 ### Installation
 
 1. **Install puppeteer:**
