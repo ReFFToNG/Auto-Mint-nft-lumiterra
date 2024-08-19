@@ -38,7 +38,7 @@ cd mint-nft-lumiterra
 
 and then 
 
-nano mint
+nano mint.js
 
 search part of wallet
 edit wallet address and your private key whenever you want
