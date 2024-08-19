@@ -1,5 +1,54 @@
 # Auto-Mint-nft-lumiterra
 Yang Mau mau aja
 
-Jalankan perintah berikut di terminal untuk menginstal ethers.js dan puppeteer
-npm install ethers puppeteer
+
+## Setup
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (version 14 or later)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+  Requirement again
+  
+Important
+Install puppeteer
+   
+    ```bash
+    npm install ethers puppeteer
+    ```
+
+### Installation
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/ReFFToNG/Auto-Mint-nft-lumiterra.git
+    ```
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd mint-nft-lumiterra
+    ```
+
+3. **Run Setup:**
+
+    ```bash
+    node mint
+    ```
+
+
+You can edit file mint 
+cd mint-nft-lumiterra
+
+and then 
+
+nano mint
+
+search part of wallet
+edit wallet address and your private key whenever you want
+
+
+
+
+    
